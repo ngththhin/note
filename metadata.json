@@ -1,0 +1,6 @@
+{
+  "name": "Note - Ghi chú",
+  "description": "Một ứng dụng quản lý ghi chú hiện đại, tối giản và phản hồi nhanh hỗ trợ Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
